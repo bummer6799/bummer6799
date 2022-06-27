@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bummer6799
+- 👋 Hi, I’m bummer6799
 - 👀 I’m interested in helping out in open source projects
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on anything that can make me gain more experience on coding and programming
